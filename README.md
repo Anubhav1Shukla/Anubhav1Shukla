@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav1shukla&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav1shukla" /> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **Upcoming Projects**
 
 - 👨‍💻 All of my projects are available at [https://anubhavshukla.netlify.app/](https://anubhavshukla.netlify.app/)
 
