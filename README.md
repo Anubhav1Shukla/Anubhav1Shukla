@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anubhavshukla.netlify.app/](https://anubhavshukla.netlify.app/)
 
-- 📫 How to reach me **shuklaanubhav613@gmail.com**
+- 📫 How to reach me **shuklaanubhav611@gmail.com**
 
 - ⚡ Fun fact **I am not good in Coding.😃**
 
