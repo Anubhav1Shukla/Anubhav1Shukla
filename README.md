@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Upcoming Projects**
 
-- 👨‍💻 All of my projects are available at [https://anubhavshukla.netlify.app/](https://anubhav1s.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://anubhav1s.vercel.app/](https://anubhav1s.vercel.app/)
 
 - 📫 How to reach me **shuklaanubhav611@gmail.com**
 
